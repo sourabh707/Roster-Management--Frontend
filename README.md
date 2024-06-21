@@ -17,7 +17,7 @@ This is a Roster Management application built with React, Redux Toolkit, and Tai
 # Clone the repository:
 
    git clone [https://github.com/yourusername/roster-management.git](https://github.com/sourabh707/Roster-Management--Frontend.git)
-   cd ROSTER MANAGEMENT FRONTEND 
+ 
 # Install the dependencies:
 
 npm install
