@@ -31,13 +31,14 @@ Open your browser and navigate to http://localhost:3000.
 
 Register a new user (either Manager or Staff).
 Log in with the registered user credentials.
+
 Depending on the role, you will be redirected to the respective dashboard:
 Managers can view, edit, and delete the staff roster.
 Staff can view their own shifts and attendance.
 
 ## File Structure
 
-<img width="293" alt="File Structure" src="https://github.com/sourabh707/Roster-Management--Frontend/assets/85352464/4556b8a6-2e95-4ca1-b03d-6c79d7037872">
+<img width="452" alt="File Structure" src="https://github.com/sourabh707/Roster-Management--Frontend/assets/85352464/ed037a85-dfd6-4f78-9166-b36935a94a9c">
 
 ## Features
 
