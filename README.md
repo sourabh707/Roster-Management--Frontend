@@ -13,16 +13,19 @@ This is a Roster Management application built with React, Redux Toolkit, and Tai
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone [https://github.com/yourusername/roster-management.git](https://github.com/sourabh707/Roster-Management--Frontend.git)
    cd roster-management
 Install the dependencies:
+```bash
 npm install
 
 Start the development server:
+```bash
 npm start
-Usage
+
+## Usage
 
 Open your browser and navigate to http://localhost:3000.
 
@@ -37,31 +40,8 @@ Staff can view their own shifts and attendance.
 
 ## File Structure
 
-roster-management/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   ├── Auth/
-│   │   │   ├── Login.js
-│   │   │   └── Register.js
-│   │   ├── Dashboard/
-│   │   │   ├── ManagerDashboard.js
-│   │   │   ├── StaffDashboard.js
-│   │   ├── common/
-│   │   │   ├── Navbar.js
-│   │   │   └── ProtectedRoute.js
-│   ├── redux/
-│   │   ├── store.js
-│   │   ├── slices/
-│   │   │   ├── authSlice.js
-│   │   │   └── rosterSlice.js
-│   ├── App.js
-│   ├── index.js
-│   ├── styles.css
-│   ├── tailwind.config.js
-├── package.json
-└── README.md
+<img width="293" alt="image" src="https://github.com/sourabh707/Roster-Management--Frontend/assets/85352464/a61a58e6-ec5b-4161-9b4a-95cff00e056b">
+
 
 
 ## Features
