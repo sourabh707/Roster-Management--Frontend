@@ -9,20 +9,20 @@ This is a Roster Management application built with React, Redux Toolkit, and Tai
 - [File Structure](#file-structure)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+
 - [License](#license)
 
 ## Installation
 
-Clone the repository:
-   ```bash
+# Clone the repository:
+
    git clone [https://github.com/yourusername/roster-management.git](https://github.com/sourabh707/Roster-Management--Frontend.git)
    cd roster-management
-Install the dependencies:
-```bash
+# Install the dependencies:
+
 npm install
 
-Start the development server:
-```bash
+# Start the development server:
 npm start
 
 ## Usage
@@ -30,19 +30,14 @@ npm start
 Open your browser and navigate to http://localhost:3000.
 
 Register a new user (either Manager or Staff).
-
 Log in with the registered user credentials.
-
 Depending on the role, you will be redirected to the respective dashboard:
-
 Managers can view, edit, and delete the staff roster.
 Staff can view their own shifts and attendance.
 
 ## File Structure
 
-<img width="293" alt="image" src="https://github.com/sourabh707/Roster-Management--Frontend/assets/85352464/a61a58e6-ec5b-4161-9b4a-95cff00e056b">
-
-
+<img width="293" alt="File Structure" src="https://github.com/sourabh707/Roster-Management--Frontend/assets/85352464/4556b8a6-2e95-4ca1-b03d-6c79d7037872">
 
 ## Features
 
@@ -66,6 +61,6 @@ Node.js (for the backend)
 Express (for the backend)
 MongoDB (for the database)
 
-##License
+## License
 
 This project is licensed under the MIT License.
