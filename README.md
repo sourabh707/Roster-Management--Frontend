@@ -14,16 +14,20 @@ This is a Roster Management application built with React, Redux Toolkit, and Tai
 
 ## Installation
 
-# Clone the repository:
+1. Clone the repository:
 
-   git clone [https://github.com/yourusername/roster-management.git](https://github.com/sourabh707/Roster-Management--Frontend.git)
+    ```bash
+    git clone [https://github.com/yourusername/roster-management.git](https://github.com/sourabh707/Roster-Management--Frontend.git)
  
-# Install the dependencies:
+2. Install the dependencies:
 
-npm install
+   ```bash
+   npm install
 
-# Start the development server:
-npm start
+3. Start the development server:
+
+    ```bash
+    npm start
 
 ## Usage
 
